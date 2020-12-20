@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+  }
+  canvas {
+    background: #fff;
+    border: 1px dashed;
+  }
+  /*a {
+    display: inline-block;
+    background: #69c;
+    color: #fff;
+    padding: 5px 10px;
+  }*/
+  .skip-link {
+    position: absolute;
+    top: -3em;
+    background: #fff;
+  }
+  .skip-link:focus {
+    top: 0;
+  }
