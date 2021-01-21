@@ -27,7 +27,7 @@ h3 {
     position: absolute;
     width: 10%;
     left: 35%;
-    top: 20%;
+    top: 15%;
 }
 .top-cloud03 {
     position: absolute;
@@ -37,21 +37,21 @@ h3 {
 }
 .bottom-cloud01 {
     position: absolute;
-    height: 55%;
-    left: -5%;
+    height: 15%;
+    left: 10%;
     top: 29%;
 }
 .bottom-cloud02 {
     position: absolute;
-    height: 30%;
+    height: 15%;
     left: 49.8%;
     top: 31%;
 }
 .bottom-cloud03 {
     position: absolute;
     width: 10%;
-    left: 80%;
-    top: 50%;
+    left: 20%;
+    top: 40%;
 }
 .bottom-mountain {
     width: 100%;
